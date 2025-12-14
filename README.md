@@ -78,7 +78,7 @@ Penetration testing lab demonstrating Apache Tomcat exploitation techniques and 
 
 ## 📫 Connect With Me
 
-📧 Email: JamirBanks@hopeworks.org  
+📧 Email: jrule7220@gmail.com  
 📍 Location: Philadelphia, PA  
 📞 Phone: (445) 263-8196
 
