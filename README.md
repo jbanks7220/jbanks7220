@@ -1,10 +1,18 @@
 # Hi there, I'm Jamir Banks 👋
 
-### 🔐 Cybersecurity Hobbyist | 🗺️ GIS Specialist | 💻 Web Developer | 🎖️ U.S. Navy Veteran
+### 🔐 OSINT & Scam Infrastructure Analyst | 🗺️ GIS Specialist | 💻 Web Developer | 🎖️ U.S. Navy Veteran
 
 I'm a motivated cybersecurity professional and U.S. Navy veteran with expertise in signals intelligence, secure communications, and technical analysis. I combine military discipline with modern development skills to build security-focused solutions.
 
 ---
+
+## 🚨 Services I Offer
+- Scam Infrastructure Analysis & Mapping
+- Phishing Domain Investigations
+- OSINT Due Diligence Reports
+
+### 📩 Contact: jrule7220@gmail.com
+
 
 ## 🛠️ Languages & Tools
 
