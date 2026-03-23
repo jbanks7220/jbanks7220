@@ -6,7 +6,7 @@ I'm a motivated cybersecurity professional and U.S. Navy veteran with expertise 
 
 ---
 
-## 🚨 Services I Offer
+### 🚨 Services I Offer
 - Scam Infrastructure Analysis & Mapping
 - Phishing Domain Investigations
 - OSINT Due Diligence Reports
