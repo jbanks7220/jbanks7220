@@ -11,7 +11,7 @@ I'm a motivated cybersecurity professional and U.S. Navy veteran with expertise 
 - Phishing Domain Investigations
 - OSINT Due Diligence Reports
 
-### 📩 Contact: jrule7220@gmail.com  
+**📩 Contact: jrule7220@gmail.com**  
 
 
 ## 🛠️ Languages & Tools
